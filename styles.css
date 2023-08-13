@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+td{
+	text-align: center;
+}
+
+table{
+	width: 100%;
+}
